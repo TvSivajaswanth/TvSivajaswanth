@@ -12,8 +12,8 @@
 <h3 align="center">A passionate developer building things with code</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://instagram.com/in/your-profile" target="_blank">
+    <img src="https://www.instagram.com/heart__hacker___5458?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==" />
   </a>
   <a href="mailto:you@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
