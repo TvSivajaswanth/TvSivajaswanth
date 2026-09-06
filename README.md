@@ -11,3 +11,6 @@
 - 💬 Ask me about **AI, LLMs, and Machine Learning basics**
 - 📫 How to reach me: **[https://www.instagram.com/heart__hacker___5458/reposts/?hl=en] GGS its my instagram**
 - ⚡ Fun fact: **I'm on a mission to become an AI/LLM Engineer, one project at a time!**
+
+💻 Tech Stack:
+C CSS3 HTML5 Java Python MySQL
