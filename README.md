@@ -1,9 +1,7 @@
-## Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm Tv.SivaJaswanth</h1> 
 
-## Hi there 👋
+##Some About Me 😉
 - 🔭 I'm currently working on **improving my skills in AI/LLM and ML/MLOps**
 - 🌱 I'm currently learning **AI/LLM Engineering and how to build AI-powered applications**
 - 🤔 I'm looking for help with **real-world project ideas and best practices in ML/MLOps**
