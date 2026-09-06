@@ -12,20 +12,10 @@
 <h3 align="center">A passionate developer building things with code</h3>
 
 <p align="center">
-  <a href="https://instagram.com/in/your-profile" target="_blank">
-    <img src="https://www.instagram.com/heart__hacker___5458?utm_source=ig_web_button_share_sheet&stkn=ZDNlZDc0MzIxNw==" />
-  </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://instagram.com/your_handle" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ### 🚀 Tech Stack
