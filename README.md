@@ -9,14 +9,12 @@
 - 📫 How to reach me: **[https://www.instagram.com/heart__hacker___5458/reposts/?hl=en] GGS its my instagram**
 - ⚡ Fun fact: **I'm on a mission to become an AI/LLM Engineer, one project at a time!**
 
-<h3 align="center"> 📞Contact Me on:-</h3>
+<h3 align="center">📞 Contact Me on:</h3>
 <p align="center">
   <a href="https://instagram.com/your_handle" target="_blank">
-    <img src="https://www.instagram.com/heart__hacker___5458/reposts/?hl=en&logo=instagram&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
----
 
 ### 🚀 Tech Stack
 
